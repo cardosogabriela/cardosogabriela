@@ -1,5 +1,7 @@
 ✯ Olá, sou Gabriela! ✯
 
+🚀 Explorando o universo da tecnologia. Admiradora, apaixonada por inovação e determinada a evoluir constantemente na jornada tecnológica. 
+
 • Estudando Análise e Desenvolvimento de Sistemas — Uniasselvi <br>
 • Formação Carreira QA: Processos e automação de testes — Alura <br>
 • Aprimorando conhecimentos em Testes e JavaScript
